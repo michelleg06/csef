@@ -2,7 +2,8 @@
 
 [![Screenshot](./preview.png)](https://c-sef.com)
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+El marco de educación segura COVID-19, o **C-SEF**, por sus siglas en inglés (COVID-19 Safe Education Framework) 
+empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
 
 ️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
 
