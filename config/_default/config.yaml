@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "C-SEF Marco de Educación Segura COVID-19" # Website name
-baseURL: 'https://c-sef.com' # Website URL
+baseURL: 'https://www.c-sef.com' # Website URL
 
 ############################
 ## LANGUAGE
