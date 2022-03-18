@@ -1,4 +1,4 @@
-# [C-SEF: Marco de Educación Segura COVID-19](https://c-sef.com)
+# [C-SEF: Marco de Educación Segura COVID-19](https://www.c-sef.com)
 
 [![Screenshot](./preview.png)](https://c-sef.com)
 
