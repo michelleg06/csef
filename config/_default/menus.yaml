@@ -5,7 +5,7 @@
 
 main:
   - name: Noticias
-    url: noticias
+    url: post
     weight: 10
   - name: El Problema
     url: problema
