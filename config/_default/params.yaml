@@ -70,7 +70,7 @@ features:
   diagram:
     enable: true
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/michelleg06/csef'
     content_dir: content
@@ -93,7 +93,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+  #  provider: 'mapnik'
     api_key: ''
     zoom: 15
 
