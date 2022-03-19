@@ -1,11 +1,11 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: C-SEF en el Instituto Potosino de Investigación Científica y Tecnológica!
+date: 2022-03-22
 image:
   focal_point: "top"
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+Investigadores del Instituto Potosino de Investigación Científica y Tecnológica forman parte crucial de un grupo interdisciplinario de investigadores de las universidades de Oxford, Harvard, y Naciones Unidas que buscan desarrollar tecnología para el bien social en época de pandemia.
 
 <!--more-->
 
