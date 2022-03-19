@@ -20,5 +20,5 @@ main:
     url: people
     weight: 50
   - name: Contáctanos
-    url: contacto
+    url: contact
     weight: 60
