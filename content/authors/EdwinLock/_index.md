@@ -12,6 +12,7 @@ role: Professor of Artificial Intelligence
 organizations:
 - name: Oxford University
   url: ""
+  org_logo: "http://www.fon.bg.ac.rs/wp-content/themes/fon/img/fon-logo=cir=.png"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
