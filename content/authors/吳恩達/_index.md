@@ -66,7 +66,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Equipo
 ---
 
 Michelle González Amador is a PhD Candidate at the United Nations University, Maastricht Economic and Social Research Institute on Innovation and Technology (UNU-MERIT) and Maastricht University, School of Business and Economics (SBE). She uses diverse econometric and experimental methods to analyse how students make choices about their education, and the economic implications of such actions. Some of the applied work she does happens in Mexico, her home country. She is also a co-organizer of the [Mechanism Design for Social Good](http://www.md4sg.com) working group on [Latin America and the Caribbean](https://www.md4sg.com/workinggroups/latinamerica.html). 
