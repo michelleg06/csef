@@ -71,5 +71,3 @@ user_groups:
 ---
 
 Edwin Lock is a research fellow at Nuffield College and a postdoc (Alex Teytelboym group) at the Department of Economics at Oxford University. His research interests include pricing and auctions, specifically determining the viability of mechanisms in the dual settings of social welfare and profit maximisation. In response to the COVID-19 pandemic, He co-founded Test and Contain, a project to design and implement a resource-optimal testing and containment mechanism that helps protect the health and livelihoods of those hardest hit in low to middle income countries.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

@@ -19,9 +19,11 @@ content:
   - Equipo
   - Asesores
   - Colaboradores
+
 design:
   show_interests: false
   show_role: true
   show_social: true
   show_organizations: true
+  show_org_logo: true
 ---
