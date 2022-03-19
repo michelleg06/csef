@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  C-SEF Marco de Educación Segura COVID-19
+  Marco de Educación Segura COVID-19 en IPICYT
 hero_media: preview.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
