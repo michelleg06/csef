@@ -2,10 +2,6 @@
 # Display name
 title: Michelle González Amador
 
-# Username (this should match the folder name)
-authors:
-- Michelle González Amador
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -15,7 +11,7 @@ role: PhD Fellow
 # Organizations/Affiliations
 organizations:
 - name: UNU-MERIT
-  url: "https://www.merit.unu.edu/"
+- url: "https://www.merit.unu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on educational decision-making of young people, with a focus on human capital investment (read education).
