@@ -1,6 +1,9 @@
 ---
+title: Noticias
+
 # Files in this folder represent a Widget Page
 type: widget_page
 ---
 
-Yo tengo hambre
+- This is the first news
+- Second one
