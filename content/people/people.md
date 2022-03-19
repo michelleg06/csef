@@ -25,5 +25,4 @@ design:
   show_role: true
   show_social: true
   show_organizations: true
-  show_org_logo: true
 ---
