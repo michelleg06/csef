@@ -1,6 +1,6 @@
 ---
 title: C-SEF en el Instituto Potosino de Investigación Científica y Tecnológica!
-date: 2022-03-22
+date: 2022-03-18
 image:
   focal_point: "top"
 ---
