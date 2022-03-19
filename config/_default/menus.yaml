@@ -7,7 +7,7 @@ main:
   - name: Noticias
     url: post
     weight: 10
-  - name: El Problema
+  - name: Problema
     url: problema
     weight: 20
   - name: Pruebas Grupales
@@ -16,7 +16,7 @@ main:
   - name: Nuestra Solución
     url: solucion
     weight: 40
-  - name: El Equipo
+  - name: Equipo
     url: equipo
     weight: 50
   - name: Contáctanos
