@@ -17,6 +17,6 @@ design:
   text-align: justify
 ---
 
-El **Marco de Educación Segura COVID-19** o **C-SEF**, por sus siglas en inglés (COVID-19 Safe Education Framework) es un proyecto de colaboración interdisciplinaria y multi-institucional que tiene como objetivo combinar conocimientos de diseño de mecanismos, inferencia causal experimental, e inteligencia artificial para desarrollar un protocolo sistemático y automatizado que permita a Instituciones de Educación el uso de sus instalaciones de manera segura y eficiente, y equitativa.
+<p style='text-align: justify'>El **Marco de Educación Segura COVID-19** o **C-SEF**, por sus siglas en inglés (COVID-19 Safe Education Framework) es un proyecto de colaboración interdisciplinaria y multi-institucional que tiene como objetivo combinar conocimientos de diseño de mecanismos, inferencia causal experimental, e inteligencia artificial para desarrollar un protocolo sistemático y automatizado que permita a Instituciones de Educación el uso de sus instalaciones de manera segura y eficiente, y equitativa.</p>
 
 
