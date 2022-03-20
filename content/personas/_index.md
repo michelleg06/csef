@@ -33,7 +33,7 @@ type: widget_page
       Research Fellow
       <br/>
       Oxford University
-      <img src='../uploads/oxford.png' height="100"/>
+      <img src='../uploads/oxford.png' height="50"/>
     </div>
     <div class="col-sm">
       <img style="border-radius: 50%" src='../uploads/michelle.jpg' width="300" height="300" alt='Michelle González Amador'/>
@@ -59,7 +59,7 @@ type: widget_page
       PhD Fellow
       <br/>
       UNU-MERIT
-      <img src='../uploads/maastricht.png' height="100"/>
+      <img src='../uploads/maastricht.png' height="50"/>
     </div>
   </div>
   <div class="row" style="text-align: center">
@@ -87,7 +87,7 @@ type: widget_page
       Postdoctoral Fellow
       <br/>
       Harvard University
-      <img src='../uploads/harvard.png' height="100"/>
+      <img src='../uploads/harvard.png' height="50"/>
     </div>
     <div class="col-sm">
       <img style="border-radius: 50%" src='../uploads/simon.jpg' width="300" height="300" alt='Simon Finster'/>
@@ -113,7 +113,7 @@ type: widget_page
       DPhil Student in Economics
       <br/>
       Oxford University
-      <img src='../uploads/oxford.png' height="100"/>
+      <img src='../uploads/oxford.png' height="50"/>
     </div>
   </div>
   <hr>
@@ -121,51 +121,44 @@ type: widget_page
   <div class="row" style="text-align: center">
     <div class="col-sm">
       <h4>Prof. Rubén López-Revilla</h4>
-      <br/>
       IPICyT
     </div>
     <div class="col-sm">
       <h4>Prof. Angel Alpuche Solis</h4>
-      <br/>
       IPICyT
     </div>
     <div class="col-sm">
       <h4>Prof. Salvador Ruiz Correa</h4>
-      <br/>
       IPICyT
     </div>
   </div>
+  <br/>
   <div class="row" style="text-align: center">
     <div class="col-sm">
       <h4>Dr. Cesaré Ovando Vázquez</h4>
-      <br/>
       IPICyT
     </div>
     <div class="col-sm">
       <h4>Jakob Jonnerby</h4>
-      <br/>
       Imperial College London
     </div>
     <div class="col-sm">
       <h4>Dr. Divya Sridhar</h4>
-      <br/>
       University of Oxford
     </div>
   </div>
+  <br/>
   <div class="row" style="text-align: center">
     <div class="col-sm">
       <h4>Dr. Philip Lazos</h4>
-      <br/>
       IOHK
     </div>
     <div class="col-sm">
       <h4>Dr. Ninad Rajgopal</h4>
-      <br/>
       University of Warwick
     </div>
     <div class="col-sm">
       <h4>Luis Alejandro Benavides-Vázquez</h4>
-      <br/>
       Monterrey Institute of Technology and Higher Education
     </div>
   </div>
