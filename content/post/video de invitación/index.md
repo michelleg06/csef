@@ -13,13 +13,12 @@ tags:
 share: true
 ---
 
-Investigadores del Instituto Potosino de Investigación Científica y Tecnológica forman parte crucial de un grupo interdisciplinario de investigadores de las universidades de Oxford, Harvard, y Naciones Unidas que buscan desarrollar tecnología para el bien social en época de pandemia.
+<p style='text-align: justify'>Investigadores del Instituto Potosino de Investigación Científica y Tecnológica forman parte crucial de un grupo interdisciplinario de investigadores de las universidades de Oxford, Harvard, y Naciones Unidas que buscan desarrollar tecnología para el bien social en época de pandemia.</p>
 
 <!--more-->
 
-Un proyecto que reúne a expertos de las áreas de biología, computación, economía, medicina y educación busca hacer de IPICyT su institución sede, e invitar a la comunidad de estudiantes y académicos a ser partícipes
-del desarrollo del producto. Te invitamos a que veas el siguiente video donde algunos de los investigadores principales explican la idea detrás de C-SEF y hacen un llamado a
-la comunidad a formar parte de la ciencia en pos del bien social. 
+<p style='text-align: justify'>Un proyecto que reúne a expertos de las áreas de biología, computación, economía, medicina y educación busca hacer de IPICyT su institución sede, e invitar a la comunidad de estudiantes y académicos a ser partícipes
+del desarrollo del producto. Te invitamos a que veas el siguiente video donde algunos de los investigadores principales explican la idea detrás de C-SEF y hacen un llamado a la comunidad a formar parte de la ciencia en pos del bien social. </p>
 
 <ul class="share">
   <li>
