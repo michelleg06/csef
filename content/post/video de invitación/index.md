@@ -23,21 +23,21 @@ la comunidad a formar parte de la ciencia en pos del bien social.
 
 <ul class="share">
   <li>
-    <a href="https://twitter.com/intent/tweet?url=https://www.c-sef.com/post/20-12-01-wowchemy-prize/" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+    <a href="https://twitter.com/intent/tweet?url=https://www.c-sef.com/post/video-de-invitacion/" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
       <i class="fab fa-twitter"></i>
     </a>
   </li>
   <li>
-    <a href="https://www.facebook.com/sharer.php?u=https://www.c-sef.com/post/20-12-01-wowchemy-prize/" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+    <a href="https://www.facebook.com/sharer.php?u=https://www.c-sef.com/post/video-de-invitacion/" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
       <i class="fab fa-facebook"></i>
     </a>
   <li>
-    <a href="https://www.linkedin.com/shareArticle?url=https://www.c-sef.com/post/20-12-01-wowchemy-prize/" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+    <a href="https://www.linkedin.com/shareArticle?url=https://www.c-sef.com/post/video-de-invitacion/" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
       <i class="fab fa-linkedin-in"></i>
     </a>
   </li>
   <li>
-    <a href="whatsapp://send?text=MICHELLES%20AWESOME%20WEBSITE%20https://www.c-sef.com/post/20-12-01-wowchemy-prize/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+    <a href="whatsapp://send?text=C%20SEF%20WEBSITE%20https://www.c-sef.com/post/video-de-invitacion/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
       <i class="fab fa-whatsapp"></i>
     </a>
   </li>
