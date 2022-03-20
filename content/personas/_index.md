@@ -29,6 +29,7 @@ type: widget_page
           </a>
         </li>
       </ul>
+      <br/>
       Research Fellow
       <br/>
       Oxford University
@@ -54,6 +55,7 @@ type: widget_page
           </a>
         </li>
       </ul>
+      <br/>
       PhD Fellow
       <br/>
       UNU-MERIT
@@ -81,6 +83,7 @@ type: widget_page
           </a>
         </li>
       </ul>
+      <br/>
       Postdoctoral Fellow
       <br/>
       Harvard University
@@ -106,10 +109,74 @@ type: widget_page
           </a>
         </li>
       </ul>
+      <br/>
       DPhil Student in Economics
       <br/>
       Oxford University
       <img src='../uploads/oxford.png'/>
+    </div>
+  </div>
+  <hr>
+  <h2>Asesores</h2>
+  <div class="row" style="text-align: center">
+    <div class="col-sm">
+      <h3>Prof. Rubén López-Revilla</h3>
+      <br/>
+      IPICyT
+    </div>
+    <div class="col-sm">
+      <h3>Prof. Angel Alpuche Solis</h3>
+      <br/>
+      IPICyT
+    </div>
+    <div class="col-sm">
+      <h3>Prof. Salvador Ruiz Correa</h3>
+      <br/>
+      IPICyT
+    </div>
+  </div>
+  <div class="row" style="text-align: center">
+    <div class="col-sm">
+      <h3>Dr. Cesaré Ovando Vázquez</h3>
+      <br/>
+      IPICyT
+    </div>
+    <div class="col-sm">
+      <h3>Jakob Jonnerby</h3>
+      <br/>
+      Imperial College London
+    </div>
+    <div class="col-sm">
+      <h3>Dr. Divya Sridhar</h3>
+      <br/>
+      University of Oxford
+    </div>
+  </div>
+  <div class="row" style="text-align: center">
+    <div class="col-sm">
+      <h3>Dr. Philip Lazos</h3>
+      <br/>
+      IOHK
+    </div>
+    <div class="col-sm">
+      <h3>Dr. Ninad Rajgopal</h3>
+      <br/>
+      University of Warwick
+    </div>
+    <div class="col-sm">
+      <h3>Luis Alejandro Benavides-Vázquez</h3>
+      <br/>
+      Monterrey Institute of Technology and Higher Education
+    </div>
+  </div>
+  <hr>
+  <h2>Colaboradores</h2>
+  <div class="row" style="text-align: center">
+    <div class="col-sm">
+      <img src='../uploads/ipicyt.png' alt='IPICYT'/>
+    </div>
+    <div class="col-sm">
+      <img src='../uploads/slp.png' alt='SLP'/>
     </div>
   </div>
 </div>
