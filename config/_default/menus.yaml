@@ -17,7 +17,7 @@ main:
     url: solucion
     weight: 40
   - name: Equipo
-    url: people
+    url: personas
     weight: 50
   - name: Contáctanos
     url: contact
