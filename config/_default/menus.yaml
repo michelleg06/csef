@@ -10,9 +10,9 @@ main:
   - name: Problema
     url: problema
     weight: 20
-  - name: Pruebas Grupales
-    url: pruebasgrupales
-    weight: 30
+  # - name: Pruebas Grupales
+  #  url: pruebasgrupales
+  #  weight: 30
   - name: Nuestra Solución
     url: solucion
     weight: 40
