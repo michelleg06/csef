@@ -8,6 +8,4 @@ view: compact
 banner:
   caption: ''
   image: ''
-
-share: true
 ---
