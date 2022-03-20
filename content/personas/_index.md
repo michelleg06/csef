@@ -5,7 +5,9 @@ title: Equipo
 type: widget_page
 ---
 
+
 <br/>
+
 
 <div class="container">
   <div class="row" style="text-align: center">
