@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: mgonzalez@merit.unu.edu
+  email: mail@c-sef.com
   phone: +31 642690414
   # address:
   #  street: 450 Serra Mall
