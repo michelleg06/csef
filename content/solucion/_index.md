@@ -11,7 +11,7 @@ type: widget_page
 
 <img src='../uploads/pruebasgrupales.png' height="75"/>
 
-<p style='text-align: justify'>Bajo la supervisión del Prof. Ángel Alpuche Solís, el Laboratorio Nacional de Biotecnología Agrícola, Médica y Ambiental (LANBAMA) ha liderado los esfuerzos para implementar nuevas metodologías de pruebas grupales de COVID-19 a través de un paso de concentración clave, según [investigación](https://academic.oup.com/clinchem/article/67/5/797/6211384?login=true) del Departamento de Farmacología de la Universidad de Oxford.</p>
+<p style='text-align: justify'>Bajo la supervisión del Prof. Ángel Alpuche Solís, el Laboratorio Nacional de Biotecnología Agrícola, Médica y Ambiental (LANBAMA) ha liderado los esfuerzos para implementar nuevas metodologías de pruebas grupales de COVID-19 a través de un paso de concentración clave, según <a href='https://academic.oup.com/clinchem/article/67/5/797/6211384?login=true' target='_blank'>investigación</a> del Departamento de Farmacología de la Universidad de Oxford.</p>
 
 <hr>
 
