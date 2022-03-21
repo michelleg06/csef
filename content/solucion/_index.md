@@ -26,3 +26,5 @@ type: widget_page
 <p style='text-align: justify'>El trabajo previo sobre protocolos de pruebas grupales se enfoca en empezar por el objetivo de establecer quién está infectado dentro de una población, e intentar alcanzar este objetivo con la cantidad mínima de pruebas. Nuestra metodología le da la vuelta al problema y formula el problema de maximizar el uso de recursos de pruebas limitadas como un problema de asignación de recursos. Nuestro enfoque está diseñado para entornos con capacidades de prueba severamente limitadas.</p>
 
 <img src='../uploads/steps.png' height="75"/>
+
+{{% cta cta_link="/equipo/" cta_text="Conoce al equipo→" %}}
