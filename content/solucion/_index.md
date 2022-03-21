@@ -27,4 +27,4 @@ type: widget_page
 
 <img src='../uploads/steps.png' height="75"/>
 
-{{% cta cta_link="/equipo/" cta_text="Conoce al equipo→" %}}
+{{% cta cta_link="/personas/" cta_text="Conoce al equipo→" %}}
