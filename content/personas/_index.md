@@ -33,8 +33,6 @@ type: widget_page
       </ul>
       <br/>
       Research Fellow
-      <br/>
-      Oxford University
       <img src='../uploads/oxford.png' height="50"/>
     </div>
     <div class="col-sm">
@@ -59,8 +57,6 @@ type: widget_page
       </ul>
       <br/>
       PhD Fellow
-      <br/>
-      UNU-MERIT
       <img src='../uploads/maastricht.png' height="50"/>
     </div>
   </div>
@@ -87,8 +83,6 @@ type: widget_page
       </ul>
       <br/>
       Postdoctoral Fellow
-      <br/>
-      Harvard University
       <img src='../uploads/harvard.png' height="50"/>
     </div>
     <div class="col-sm">
@@ -113,10 +107,8 @@ type: widget_page
       </ul>
       <br/>
       DPhil Student in Economics and Researcher
-      <br/>
-      Oxford University and Hagen University
-      <img src='../uploads/oxford.png' height="15"/>
-      <img src='../uploads/hagen.png' height="15"/>
+      <img src='../uploads/oxford.png' height="10"/>
+      <img src='../uploads/hagen.png' height="10"/>
     </div>
   </div>
   <hr>
