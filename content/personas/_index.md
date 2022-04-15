@@ -112,9 +112,9 @@ type: widget_page
         </li>
       </ul>
       <br/>
-      DPhil Student in Economics
+      DPhil Student in Economics and Researcher
       <br/>
-      Oxford University
+      Oxford University and Hagen University
       <img src='../uploads/oxford.png' height="15"/>
       <img src='../uploads/hagen.png' height="15"/>
     </div>
