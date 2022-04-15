@@ -115,7 +115,9 @@ type: widget_page
       DPhil Student in Economics
       <br/>
       Oxford University
-      <img src='../uploads/oxford.png' height="50"/>
+      <img src='../uploads/oxford.png' height="25"/>
+      <br/>
+      <img src='../uploads/hagen.png' height="25"/>
     </div>
   </div>
   <hr>
