@@ -20,6 +20,7 @@ share: true
 <p style='text-align: justify'>Un proyecto que reúne a expertos de las áreas de biología, computación, economía, medicina y educación busca hacer de IPICyT su institución sede, e invitar a la comunidad de estudiantes y académicos a ser partícipes
 del desarrollo del producto. Te invitamos a que veas el siguiente video donde algunos de los investigadores principales explican la idea detrás de C-SEF y hacen un llamado a la comunidad a formar parte de la ciencia en pos del bien social. </p>
 
+<!--
 <ul class="share">
   <li>
     <a href="https://twitter.com/intent/tweet?url=https://www.c-sef.com/post/video-de-invitacion/" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
@@ -41,3 +42,4 @@ del desarrollo del producto. Te invitamos a que veas el siguiente video donde al
     </a>
   </li>
 </ul>
+--!>
