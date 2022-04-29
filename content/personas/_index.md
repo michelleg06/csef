@@ -161,10 +161,10 @@ type: widget_page
   <h2 style="text-align: center">Colaboradores</h2>
   <div class="row" style="text-align: center">
     <div class="col-sm">
-      <img src='../uploads/ipicyt.png' alt='IPICYT'/>
+      <img src='../uploads/ipicytlogo.png' alt='IPICYT'/>
     </div>
     <div class="col-sm">
-      <img src='../uploads/slp.png' alt='SLP'/>
+      <img src='../uploads/slp2.png' alt='SLP'/>
     </div>
   </div>
 </div>
